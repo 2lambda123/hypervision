@@ -1,0 +1,110 @@
+repo_name: 2lambda123/hypervision
+report_id: e375cab599182ea8a9e3a570d8560c64
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-09T06:56:07+00:00'
+requested_by: 2lambda123
+provider: github
+branch: master
+detected_tools_count: 8
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/2lambda123/hypervision
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/2lambda123/hypervision
+  detection_source: Repo Metadata
+- name: Electron
+  description: Build cross platform desktop apps with JavaScript, HTML, and CSS
+  website_url: http://electron.atom.io/
+  version: 22.3.25
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Cross-Platform Desktop Development
+  image_url: https://img.stackshare.io/service/2946/default_18a71b65e69d7aef5f218ae07f64eb6e1594c444.jpg
+  detection_source_url: https://github.com/2lambda123/hypervision/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-10-19 18:40:21.000000000 Z
+- name: Browserify
+  description: Browser-side require() the node.js way
+  website_url: http://browserify.org/
+  version: 14.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/849/9esmqty2.png
+  detection_source_url: https://github.com/2lambda123/hypervision/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Louis Center
+  last_updated_on: 2017-03-27 14:13:44.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/2lambda123/hypervision
+  detection_source: Repo Metadata
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/2lambda123/hypervision/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mathias Buus
+  last_updated_on: 2016-11-12 16:16:57.000000000 Z
+- name: end-of-stream
+  description: Call a callback when a readable/writable/duplex stream has completed
+    or failed
+  package_url: https://www.npmjs.com/end-of-stream
+  version: 1.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17795/default_a3a8e3ccb38174acb180f0920c5d4e2fea848911.png
+  detection_source_url: https://github.com/2lambda123/hypervision/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Louis Center
+  last_updated_on: 2017-03-16 07:47:35.000000000 Z
+- name: pump
+  description: Pipe streams together and close all of them if one of them closes
+  package_url: https://www.npmjs.com/pump
+  version: 1.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16623/default_cc0f40a737548852d2ee666c132c258c9a2c0cad.png
+  detection_source_url: https://github.com/2lambda123/hypervision/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Louis Center
+  last_updated_on: 2017-03-16 12:53:04.000000000 Z
