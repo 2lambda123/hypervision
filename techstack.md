@@ -3,9 +3,9 @@
 ## Tech Stack
 2lambda123/hypervision is built on the following main stack:
 
-- [Browserify](http://browserify.org/) – Front End Package Manager
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - [Electron](http://electron.atom.io/) – Cross-Platform Desktop Development
+- [Browserify](http://browserify.org/) – Front End Package Manager
 
 Full tech stack [here](/techstack.md)
 
@@ -15,9 +15,9 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 2lambda123/hypervision is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/849/9esmqty2.png' alt='Browserify'/> [Browserify](http://browserify.org/) – Front End Package Manager
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/2946/default_18a71b65e69d7aef5f218ae07f64eb6e1594c444.jpg' alt='Electron'/> [Electron](http://electron.atom.io/) – Cross-Platform Desktop Development
+- <img width='25' height='25' src='https://img.stackshare.io/service/849/9esmqty2.png' alt='Browserify'/> [Browserify](http://browserify.org/) – Front End Package Manager
 
 Full tech stack [here](/techstack.md)
 
@@ -28,7 +28,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [2lambda123/hypervision](https://github.com/2lambda123/hypervision)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|8<br/>Tools used|01/09/24 <br/>Report generated|
+|8<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
